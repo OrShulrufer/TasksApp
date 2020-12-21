@@ -5,6 +5,7 @@ import java.util.Date;
 
 
 public class TaskBoundary {
+	
     private Long $key;
     private String name;
     private String description;
